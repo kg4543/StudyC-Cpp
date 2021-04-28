@@ -24,5 +24,29 @@
     <ClCompile Include="If_else.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="if_elseif.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Quest1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩if문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Switch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="While문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="For문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Dowhile.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="중첩반복문.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

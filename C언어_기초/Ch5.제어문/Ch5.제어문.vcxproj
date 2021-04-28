@@ -139,9 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dowhile.c" />
+    <ClCompile Include="For문.c" />
     <ClCompile Include="If_else.c" />
+    <ClCompile Include="if_elseif.c" />
     <ClCompile Include="If문.c" />
     <ClCompile Include="Main.c" />
+    <ClCompile Include="Quest1.c" />
+    <ClCompile Include="Switch.c" />
+    <ClCompile Include="While문.c" />
+    <ClCompile Include="중첩if문.c" />
+    <ClCompile Include="중첩반복문.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
