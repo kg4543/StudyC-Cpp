@@ -1,4 +1,4 @@
-//#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main(void) {
@@ -12,8 +12,11 @@ int main(void) {
 	sub6();
 	sub7();
 	sub8();
+	sub9();
 
 	//question1();
+	//question2();
+	question3(); // question1(); 기능들 함수로 빼기
 
 	return 0;
 }

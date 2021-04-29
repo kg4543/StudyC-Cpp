@@ -24,6 +24,7 @@
     <ProjectGuid>{c7250306-540e-466e-bbcc-db3981cb0c98}</ProjectGuid>
     <RootNamespace>Ch5제어문</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Ch5.6.제어문.반복문</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Break반복문.c" />
     <ClCompile Include="Dowhile.c" />
     <ClCompile Include="For문.c" />
     <ClCompile Include="If_else.c" />
@@ -146,6 +148,8 @@
     <ClCompile Include="If문.c" />
     <ClCompile Include="Main.c" />
     <ClCompile Include="Quest1.c" />
+    <ClCompile Include="Quest2.c" />
+    <ClCompile Include="Question3.c" />
     <ClCompile Include="Switch.c" />
     <ClCompile Include="While문.c" />
     <ClCompile Include="중첩if문.c" />

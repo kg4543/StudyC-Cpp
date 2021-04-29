@@ -1,2 +1,14 @@
-﻿  중첩반복문.c
-  Ch5.제어문.vcxproj -> D:\GitRepository\StudyC-Cpp\C언어_기초\x64\Debug\Ch5.제어문.exe
+﻿C:\DEV\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(Ch5.제어문.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Main.c
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(6,6): warning C4013: 'sub0'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(7,6): warning C4013: 'sub1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(8,6): warning C4013: 'sub2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(9,6): warning C4013: 'sub3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(10,6): warning C4013: 'sub4'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(11,6): warning C4013: 'sub5'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(12,6): warning C4013: 'sub6'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(13,6): warning C4013: 'sub7'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(14,6): warning C4013: 'sub8'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(15,6): warning C4013: 'sub9'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch5.제어문\Main.c(19,11): warning C4013: 'question3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Ch5.제어문.vcxproj -> D:\GitRepository\StudyC-Cpp\C언어_기초\x64\Debug\Ch5.6.제어문.반복문.exe

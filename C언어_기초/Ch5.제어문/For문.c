@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int sub6(void) {
 
 	printf("\n-------------\n");
