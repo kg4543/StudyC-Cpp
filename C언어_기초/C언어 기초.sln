@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch4.연산자", "Ch4.연산자\Ch4.연산자.vcxproj", "{21C68B5C-D7A0-48D4-B111-A5C22F02E26C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch5.제어문", "Ch5.제어문\Ch5.제어문.vcxproj", "{C7250306-540E-466E-BBCC-DB3981CB0C98}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch5.6.제어문.반복문", "Ch5.제어문\Ch5.제어문.vcxproj", "{C7250306-540E-466E-BBCC-DB3981CB0C98}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch7.함수", "Ch7.함수\Ch7.함수.vcxproj", "{9BD471C1-9043-41D3-837C-75C4378107D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch8.배열", "Ch8.배열\Ch8.배열.vcxproj", "{13AF8E12-1AAB-4649-901F-0F59C78D209F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,22 @@ Global
 		{C7250306-540E-466E-BBCC-DB3981CB0C98}.Release|x64.Build.0 = Release|x64
 		{C7250306-540E-466E-BBCC-DB3981CB0C98}.Release|x86.ActiveCfg = Release|Win32
 		{C7250306-540E-466E-BBCC-DB3981CB0C98}.Release|x86.Build.0 = Release|Win32
+		{9BD471C1-9043-41D3-837C-75C4378107D2}.Debug|x64.ActiveCfg = Debug|x64
+		{9BD471C1-9043-41D3-837C-75C4378107D2}.Debug|x64.Build.0 = Debug|x64
+		{9BD471C1-9043-41D3-837C-75C4378107D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{9BD471C1-9043-41D3-837C-75C4378107D2}.Debug|x86.Build.0 = Debug|Win32
+		{9BD471C1-9043-41D3-837C-75C4378107D2}.Release|x64.ActiveCfg = Release|x64
+		{9BD471C1-9043-41D3-837C-75C4378107D2}.Release|x64.Build.0 = Release|x64
+		{9BD471C1-9043-41D3-837C-75C4378107D2}.Release|x86.ActiveCfg = Release|Win32
+		{9BD471C1-9043-41D3-837C-75C4378107D2}.Release|x86.Build.0 = Release|Win32
+		{13AF8E12-1AAB-4649-901F-0F59C78D209F}.Debug|x64.ActiveCfg = Debug|x64
+		{13AF8E12-1AAB-4649-901F-0F59C78D209F}.Debug|x64.Build.0 = Debug|x64
+		{13AF8E12-1AAB-4649-901F-0F59C78D209F}.Debug|x86.ActiveCfg = Debug|Win32
+		{13AF8E12-1AAB-4649-901F-0F59C78D209F}.Debug|x86.Build.0 = Debug|Win32
+		{13AF8E12-1AAB-4649-901F-0F59C78D209F}.Release|x64.ActiveCfg = Release|x64
+		{13AF8E12-1AAB-4649-901F-0F59C78D209F}.Release|x64.Build.0 = Release|x64
+		{13AF8E12-1AAB-4649-901F-0F59C78D209F}.Release|x86.ActiveCfg = Release|Win32
+		{13AF8E12-1AAB-4649-901F-0F59C78D209F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
