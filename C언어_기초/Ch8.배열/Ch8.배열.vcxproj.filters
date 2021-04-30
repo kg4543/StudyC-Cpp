@@ -36,5 +36,11 @@
     <ClCompile Include="문자열 대입.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="PutsGets.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="null문자가 없는 문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

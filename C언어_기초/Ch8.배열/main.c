@@ -9,7 +9,9 @@ int main(void)
 	//sub2();
 	//sub3();
 	//sub4();
-	sub5();
+	//sub5();
+	//sub6();
+	sub7();
 
 
 	return 0;

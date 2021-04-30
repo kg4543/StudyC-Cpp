@@ -142,6 +142,8 @@
     <ClCompile Include="Array.c" />
     <ClCompile Include="BasicArray.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="null문자가 없는 문자열.c" />
+    <ClCompile Include="PutsGets.c" />
     <ClCompile Include="Sizeof연산자.c" />
     <ClCompile Include="문자열 대입.c" />
     <ClCompile Include="문자열.c" />
