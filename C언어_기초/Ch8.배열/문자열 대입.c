@@ -7,10 +7,10 @@ int sub5()
 	printf("\n-------------\n");
 
 	char str1[80] = "cat";
-	char str2[80];
+	char str2[80] = "";
 
 	strcpy(str1, "triger");
-	strcpy(str1, str2);
+	strcpy(str2, str1);
 	printf("%s, %s\n", str1, str2);
 
 	return 0;
