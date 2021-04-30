@@ -27,5 +27,14 @@
     <ClCompile Include="Sizeof연산자.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Array.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 대입.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

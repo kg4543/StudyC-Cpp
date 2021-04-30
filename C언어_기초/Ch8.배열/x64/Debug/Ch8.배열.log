@@ -1,2 +1,3 @@
-﻿  Sizeof연산자.c
+﻿  main.c
+D:\GitRepository\StudyC-Cpp\C언어_기초\Ch8.배열\main.c(12,6): warning C4013: 'sub5'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   Ch8.배열.vcxproj -> D:\GitRepository\StudyC-Cpp\C언어_기초\x64\Debug\Ch8.배열.exe

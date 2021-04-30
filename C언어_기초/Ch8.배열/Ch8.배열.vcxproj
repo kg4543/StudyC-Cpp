@@ -139,9 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Array.c" />
     <ClCompile Include="BasicArray.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="Sizeof연산자.c" />
+    <ClCompile Include="문자열 대입.c" />
+    <ClCompile Include="문자열.c" />
     <ClCompile Include="성적제어.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
