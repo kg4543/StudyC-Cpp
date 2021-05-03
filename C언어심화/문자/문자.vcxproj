@@ -141,12 +141,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="char함수.c" />
+    <ClCompile Include="fgets함수의 문자열입력.c" />
+    <ClCompile Include="gets함수.c" />
     <ClCompile Include="gets함수로 문자열 입력.c" />
+    <ClCompile Include="gets함수불가.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="quest1.c" />
     <ClCompile Include="scanf사용한 문자열.c" />
     <ClCompile Include="공백,제어문자.c" />
     <ClCompile Include="대소문자변환.c" />
     <ClCompile Include="문자열 주소.c" />
+    <ClCompile Include="문자열출력함수.c" />
     <ClCompile Include="문자열포인터사용.c" />
     <ClCompile Include="버퍼.c" />
     <ClCompile Include="버퍼내용삭제.c" />

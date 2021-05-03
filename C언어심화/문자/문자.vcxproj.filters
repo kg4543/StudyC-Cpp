@@ -48,5 +48,20 @@
     <ClCompile Include="gets함수로 문자열 입력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="fgets함수의 문자열입력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gets함수불가.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열출력함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gets함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quest1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

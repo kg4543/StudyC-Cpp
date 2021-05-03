@@ -12,7 +12,13 @@ int main(void)
 	//sub6();
 	//sub7();
 	//sub8();
-	sub9();
+	//sub9();
+	//sub10();
+	//sub11();
+	//sub12();
+	//sub13();
+	
+	question1();
 
 	return 0;
 }
