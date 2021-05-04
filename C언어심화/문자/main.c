@@ -17,8 +17,15 @@ int main(void)
 	//sub11();
 	//sub12();
 	//sub13();
-	
-	question1();
+	//sub14();
+	//sub15();
+	//sub16();
+	//sub17();
+	//sub18();
+	//sub19();
+
+	//question1();
+	question2();
 
 	return 0;
 }

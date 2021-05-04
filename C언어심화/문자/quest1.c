@@ -24,23 +24,20 @@ void input_lotto(int* pl,int size)
 	for (i = 0; i < size; i++)
 	{
 		scanf("%d", &pl[i]);
-	
+
+		if (pl[i] <= 0 || pl[i] > 45)
+		{
+			printf("범위를 벗어났습니다.\n45이하의 값을 입력하세요!!\n");
+			i--;
+		}
 		for (j = 0; j < i; j++)
 		{
-			while (pl[i] == pl[j] || pl[i] <= 0 || pl[i] > 45)
-			{
 				if (pl[i] == pl[j])
 				{
 					printf("동일한 값을 입력하셨습니다.\n다른 값을 입력하세요!!\n");
-					scanf("%d", &pl[i]);
+					i--;
+					break;
 				}
-
-				if (pl[i] <= 0 || pl[i] > 45)
-				{
-					printf("범위를 벗어났습니다.\n45이하의 값을 입력하세요!!\n");
-					scanf("%d", &pl[i]);
-				}
-			}
 		}
 	}
 }
