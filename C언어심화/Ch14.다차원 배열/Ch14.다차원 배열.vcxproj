@@ -142,7 +142,9 @@
     <ClCompile Include="2차원배열의 초기화.c" />
     <ClCompile Include="3차원배열.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="quest2.c" />
     <ClCompile Include="quest1.c" />
+    <ClCompile Include="quest3.c" />
     <ClCompile Include="다항_입출력.c" />
     <ClCompile Include="여러개의 1차원배열.c" />
     <ClCompile Include="포인터배열.c" />

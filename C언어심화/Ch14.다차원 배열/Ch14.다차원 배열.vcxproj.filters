@@ -39,5 +39,11 @@
     <ClCompile Include="quest1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="quest2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="quest3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
