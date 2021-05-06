@@ -1,0 +1,11 @@
+﻿  main.c
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch15.이중포인터\main.c(6,6): warning C4013: 'sub0'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch15.이중포인터\main.c(7,6): warning C4013: 'sub1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch15.이중포인터\main.c(8,6): warning C4013: 'sub2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch15.이중포인터\main.c(9,6): warning C4013: 'sub3'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch15.이중포인터\main.c(10,6): warning C4013: 'sub4'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch15.이중포인터\main.c(11,6): warning C4013: 'sub5'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch15.이중포인터\main.c(12,6): warning C4013: 'sub6'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch15.이중포인터\main.c(13,6): warning C4013: 'sub7'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch15.이중포인터\main.c(16,6): warning C4013: 'sub9'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Ch15.이중포인터.vcxproj -> D:\GitRepository\StudyC-Cpp\C언어심화\Debug\Ch15.이중포인터.exe
