@@ -140,8 +140,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="3개의 문자열을 저장하기 위한 동적할당.c" />
+    <ClCompile Include="calloc,realloc.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="동적할당 영역을 배열처럼 사용.c" />
     <ClCompile Include="동적할당한 저장공간을 사용.c" />
+    <ClCompile Include="문자열 동적 할당.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -3,7 +3,11 @@
 
 int main()
 {
-	sub0();
+	//sub0();
+	//sub1();
+	//sub2();
+	//sub3();
+	sub4();
 
 	return 0;
 }

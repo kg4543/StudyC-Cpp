@@ -1,6 +1,4 @@
-﻿  동적할당한 저장공간을 사용.c
-D:\GitRepository\StudyC-Cpp\C언어심화\메모리 동적 할당\동적할당한 저장공간을 사용.c(10,13): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-D:\GitRepository\StudyC-Cpp\C언어심화\메모리 동적 할당\동적할당한 저장공간을 사용.c(10,26): warning C4047: '=': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
-D:\GitRepository\StudyC-Cpp\C언어심화\메모리 동적 할당\동적할당한 저장공간을 사용.c(14,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-D:\GitRepository\StudyC-Cpp\C언어심화\메모리 동적 할당\동적할당한 저장공간을 사용.c(24,6): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  메모리 동적 할당.vcxproj -> D:\GitRepository\StudyC-Cpp\C언어심화\Debug\메모리 동적 할당.exe
+﻿C:\DEV\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(메모리 동적 할당.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  문자열 동적 할당.c
+D:\GitRepository\StudyC-Cpp\C언어심화\메모리 동적 할당\문자열 동적 할당.c(19,7): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  메모리 동적 할당.vcxproj -> D:\GitRepository\StudyC-Cpp\C언어심화\Debug\Ch16.메모리 동적 할당.exe
