@@ -1,0 +1,3 @@
+﻿  이미 정의된 매크로.c
+입출력 스트림.obj : error LNK2005: _sub3이(가) 이미 정의된 매크로.obj에 이미 정의되어 있습니다.
+D:\GitRepository\StudyC-Cpp\C언어심화\Debug\Ch18.파일 입출력.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

@@ -1,0 +1,7 @@
+﻿  main.c
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch17.사용자 정의 자료형\main.c(17,7): warning C4013: 'sub11'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  typedef 자료 재정의.c
+  열거형을 사용한 프로그램.c
+D:\GitRepository\StudyC-Cpp\C언어심화\Ch17.사용자 정의 자료형\열거형을 사용한 프로그램.c(26,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  코드를 생성하고 있습니다...
+  Ch17.사용자 정의 자료형.vcxproj -> D:\GitRepository\StudyC-Cpp\C언어심화\Debug\Ch17.사용자 정의 자료형.exe
