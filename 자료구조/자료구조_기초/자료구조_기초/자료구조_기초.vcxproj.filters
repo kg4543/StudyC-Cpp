@@ -45,5 +45,26 @@
     <ClCompile Include="점 연산자를 이용.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="재귀호출.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="하노이탑.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="원소의 논리,물리 순서.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="다항식의 추상자료형.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="희소행열의 전치연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단순 연결리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="단방향연결리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

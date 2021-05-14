@@ -142,13 +142,20 @@
     <ClCompile Include="3차원배열.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="구구단.c" />
+    <ClCompile Include="다항식의 추상자료형.c" />
+    <ClCompile Include="단방향연결리스트.c" />
+    <ClCompile Include="단순 연결리스트.c" />
     <ClCompile Include="문자열 길이 계산.c" />
     <ClCompile Include="배열.c" />
+    <ClCompile Include="원소의 논리,물리 순서.c" />
+    <ClCompile Include="재귀호출.c" />
     <ClCompile Include="점 연산자를 이용.c" />
     <ClCompile Include="포인터 사용.c" />
     <ClCompile Include="포인터 연산.c" />
     <ClCompile Include="포인터로 문자열처리.c" />
     <ClCompile Include="포인터배열.c" />
+    <ClCompile Include="하노이탑.c" />
+    <ClCompile Include="희소행열의 전치연산.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

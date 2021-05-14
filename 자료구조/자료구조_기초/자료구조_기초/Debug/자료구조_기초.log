@@ -1,3 +1,7 @@
-﻿  점 연산자를 이용.c
-D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\자료구조_기초\점 연산자를 이용.c(21,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  단방향연결리스트.c
+D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\자료구조_기초\단방향연결리스트.c(15,33): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\자료구조_기초\단방향연결리스트.c(67,8): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\자료구조_기초\단방향연결리스트.c(119,1): warning C4133: '초기화 중': 'HeadNode *'과(와) 'Node *' 사이의 형식이 호환되지 않습니다.
+D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\자료구조_기초\단방향연결리스트.c(132,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\자료구조_기초\단방향연결리스트.c(202,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   자료구조_기초.vcxproj -> D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\Debug\자료구조_기초.exe
