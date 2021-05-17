@@ -144,7 +144,6 @@ void searchDelNode(HeadNode* h, int data)
 				
 				//h->head = curr;
 				j++;
-				getchar();
 				continue;
 			}
 			else if (c == 'N' || c == 'n')
@@ -152,7 +151,6 @@ void searchDelNode(HeadNode* h, int data)
 				printf("삭제를 취소하였습니다.\n");
 				temp = curr;
 				j++;
-				getchar();
 			}
 			else
 			{
@@ -160,6 +158,7 @@ void searchDelNode(HeadNode* h, int data)
 				j++;
 				break;
 			}
+			getchar();
 		}
 		else
 		{
@@ -169,7 +168,54 @@ void searchDelNode(HeadNode* h, int data)
 	}
 	if (j == 0)
 	{
-		printf("삭제할 데이터가 없습니다.");
+		printf("데이터가 없습니다.");
+	}
+}
+
+void midInsertNode(HeadNode* h, int data)
+{
+	Node* curr = h->head;
+	int i = 0, j = 0;
+	char c;
+	int p;
+	getchar();
+
+	while (curr != NULL)
+	{
+		i++;
+		if (curr->data == data)
+		{
+			printf("%d번째 노드 데이터 %d\n", i, curr->data);
+			printf("뒤에 추가하시겠습니까?(Y/N)");
+			scanf("%c", &c);
+			getchar();
+			if (c == 'Y' || c == 'y')
+			{
+				printf("추가할 데이터 : ");
+				scanf("%d", &p);
+				Node* new = (Node*)malloc(sizeof(Node));
+				new->data = p;
+				new->next = curr->next;
+				curr->next = new;
+				return;
+			}
+			else if (c == 'N' || c == 'n')
+			{
+				printf("추가를 취소하였습니다.\n");
+				j++;
+			}
+			else
+			{
+				printf("인식할 수 없습니다. 명령을 취소합니다.\n");
+				j++;
+				break;
+			}
+		}
+		curr = curr->next;
+	}
+	if (j == 0)
+	{
+		printf("검색한 데이터가 없습니다.");
 	}
 }
 
@@ -201,6 +247,11 @@ int sub14()
 	printf("삭제할 값 : ");
 	scanf("%d", &a);
 	searchDelNode(h, a);
+
+	//선택 삽입
+	/*printf("검색할 값 : ");
+	scanf("%d", &a);
+	midInsertNode(h, a);*/
 
 	printf("\n-----------------\n");
 	printNode(h);
