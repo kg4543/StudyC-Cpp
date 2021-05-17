@@ -66,5 +66,11 @@
     <ClCompile Include="단방향연결리스트.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="이중연결리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="원형연결리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
