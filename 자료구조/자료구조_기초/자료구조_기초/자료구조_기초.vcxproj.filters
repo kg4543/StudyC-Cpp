@@ -30,7 +30,7 @@
     <ClCompile Include="3차원배열.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="포인터 연산.c">
+    <ClCompile Include="포인터.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="포인터로 문자열처리.c">
@@ -70,6 +70,42 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="원형연결리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="큐1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="큐2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="순차탐색.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진탐색.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="삽입정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="선택정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="퀵정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Quick정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진트리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이진트리탐색.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
