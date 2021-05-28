@@ -1,3 +1,3 @@
 ﻿  main.c
-D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\자료구조_기초\main.c(8,6): warning C4013: 'sub0'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\자료구조_기초\main.c(28,7): warning C4013: 'sub20'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   자료구조_기초.vcxproj -> D:\GitRepository\StudyC-Cpp\자료구조\자료구조_기초\Debug\자료구조_기초.exe
