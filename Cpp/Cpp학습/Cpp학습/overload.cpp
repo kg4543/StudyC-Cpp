@@ -4,7 +4,7 @@ int Add(int a, int b);
 int Add(int a, int b, int c);
 double Add(double a, double b);
 
-void main()
+void sub13()
 {
 	printf("1+2 = %d\n", Add(1, 2));
 	printf("3+4+5 = %d\n", Add(3, 4, 5));

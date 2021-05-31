@@ -18,11 +18,20 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CopyConstructor.cpp" />
+    <ClCompile Include="default.cpp" />
+    <ClCompile Include="Destructor.cpp" />
+    <ClCompile Include="HumanCopy.cpp" />
+    <ClCompile Include="newHuman.cpp" />
+    <ClCompile Include="NoDefCon.cpp" />
+    <ClCompile Include="TimeCopy.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6e87cca1-0c5a-463d-a5f7-0015d1bd772a}</ProjectGuid>
-    <RootNamespace>Cpp학습</RootNamespace>
+    <ProjectGuid>{555dcdae-93a7-4f69-8ab9-f5775a00d1b8}</ProjectGuid>
+    <RootNamespace>생성자</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,26 +147,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="bool.cpp" />
-    <ClCompile Include="count.cpp" />
-    <ClCompile Include="defpara.cpp" />
-    <ClCompile Include="newarry.cpp" />
-    <ClCompile Include="newdelete.cpp" />
-    <ClCompile Include="overload.cpp" />
-    <ClCompile Include="ptroverload.cpp" />
-    <ClCompile Include="randfunc.cpp" />
-    <ClCompile Include="ref.cpp" />
-    <ClCompile Include="refptr.cpp" />
-    <ClCompile Include="refreturn.cpp" />
-    <ClCompile Include="sum.cpp" />
-    <ClCompile Include="swap.cpp" />
-    <ClCompile Include="tagtype.cpp" />
-    <ClCompile Include="iostream.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="\\210.119.12.109\Share\C++\cursor.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

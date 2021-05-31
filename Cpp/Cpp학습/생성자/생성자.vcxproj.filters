@@ -15,55 +15,26 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bool.cpp">
+    <ClCompile Include="Destructor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="tagtype.cpp">
+    <ClCompile Include="newHuman.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="newdelete.cpp">
+    <ClCompile Include="default.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="newarry.cpp">
+    <ClCompile Include="NoDefCon.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="count.cpp">
+    <ClCompile Include="TimeCopy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="iostream.cpp">
+    <ClCompile Include="HumanCopy.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="sum.cpp">
+    <ClCompile Include="CopyConstructor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ref.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="swap.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="refptr.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="refreturn.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="defpara.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="overload.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="randfunc.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ptroverload.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="\\210.119.12.109\Share\C++\cursor.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
