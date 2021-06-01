@@ -1,0 +1,3 @@
+﻿  constructOverload.cpp
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\클래스\constructOverload.cpp(27,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  클래스.vcxproj -> D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\Debug\클래스.exe

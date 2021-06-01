@@ -15,43 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Destructor.cpp">
+    <ClCompile Include="human.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="newHuman.cpp">
+    <ClCompile Include="human2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="default.cpp">
+    <ClCompile Include="access.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="NoDefCon.cpp">
+    <ClCompile Include="humantype.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TimeCopy.cpp">
+    <ClCompile Include="Time.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="HumanCopy.cpp">
+    <ClCompile Include="Date.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CopyConstructor.cpp">
+    <ClCompile Include="constructor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Constructor.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="initConstMember.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="initRefMember.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="int2Time.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Convert.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ClassConvert.cpp">
+    <ClCompile Include="constructOverload.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

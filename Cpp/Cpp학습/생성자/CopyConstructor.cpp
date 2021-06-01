@@ -35,7 +35,7 @@ void printsHuman(sHuman who) {
 	who.intro();
 }
 
-void main()
+void sub07()
 {
 	sHuman kang("°­°¨Âù", 1424);
 	sHuman boy = kang;
