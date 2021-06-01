@@ -1,5 +1,5 @@
 ﻿  휘트니스회원관리.c
-D:\GitRepository\StudyC-Cpp\기초프로그래밍\기초프로그래밍\휘트니스회원관리.c(23,29): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-D:\GitRepository\StudyC-Cpp\기초프로그래밍\기초프로그래밍\휘트니스회원관리.c(28,8): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-D:\GitRepository\StudyC-Cpp\기초프로그래밍\기초프로그래밍\휘트니스회원관리.c(77): warning C4715: 'max_weight': 모든 제어 경로에서 값을 반환하지는 않습니다.
+D:\GitRepository\StudyC-Cpp\기초프로그래밍\기초프로그래밍\휘트니스회원관리.c(18,29): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\기초프로그래밍\기초프로그래밍\휘트니스회원관리.c(23,8): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\기초프로그래밍\기초프로그래밍\휘트니스회원관리.c(84): warning C4715: 'max_weight': 모든 제어 경로에서 값을 반환하지는 않습니다.
   기초프로그래밍.vcxproj -> D:\GitRepository\StudyC-Cpp\기초프로그래밍\Debug\기초프로그래밍.exe
