@@ -3,12 +3,12 @@
 
 void insertionSort(int* pary, int size);
 
-void main()
+void sub()
 {
 	char input_ary[10];
-	char upper_ary[10];
-	char lower_ary[10];
-	char* pl = upper_ary, * pu = lower_ary;
+	char* lower_ary, * upper_ary;
+	upper_ary = (char*)malloc(sizeof(char));
+	lower_ary = (char*)malloc(sizeof(char));
 
 	int i = 0, j = 0, k = 0;
 	printf("알파뱃을 입력하세요 : ");
@@ -35,14 +35,12 @@ void main()
 	{
 		if (input_ary[i] >= 65 && input_ary[i] <= 90)
 		{
-			pu[j] = (char*)malloc(sizeof(char));
-			pu[j] = input_ary[i];
+			upper_ary[j] = input_ary[i];
 			j++;
 		}
 		else if (input_ary[i] >= 97 && input_ary[i] <= 122)
 		{
-			pl[k] = (char*)malloc(sizeof(char));
-			pl[k] = input_ary[i];
+			lower_ary[k] = input_ary[i];
 			k++;
 		}
 		else
@@ -60,7 +58,7 @@ void main()
 	{
 		for (i = 0; i < j; i++)
 		{
-			printf("%5c", pu[i]);
+			printf("%5c", upper_ary[i]);
 		}
 	}
 	
@@ -74,7 +72,7 @@ void main()
 	{
 		for (i = 0; i < k; i++)
 		{
-			printf("%5c", pl[i]);
+			printf("%5c", lower_ary[i]);
 		}
 	}
 	

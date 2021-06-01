@@ -1,7 +1,5 @@
-﻿  알파벳구분.c
-D:\GitRepository\StudyC-Cpp\자료구조와 알고리즘\알파벳구분.c(26,25): warning C4133: '함수': 'char [10]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
-D:\GitRepository\StudyC-Cpp\자료구조와 알고리즘\알파벳구분.c(38,25): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-D:\GitRepository\StudyC-Cpp\자료구조와 알고리즘\알파벳구분.c(38,39): warning C4047: '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
-D:\GitRepository\StudyC-Cpp\자료구조와 알고리즘\알파벳구분.c(44,39): warning C4047: '=': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
-D:\GitRepository\StudyC-Cpp\자료구조와 알고리즘\알파벳구분.c(83,26): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+﻿  Test.c
+D:\GitRepository\StudyC-Cpp\자료구조와 알고리즘\Test.c(18,29): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\자료구조와 알고리즘\Test.c(23,8): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\GitRepository\StudyC-Cpp\자료구조와 알고리즘\Test.c(84): warning C4715: 'max_weight': 모든 제어 경로에서 값을 반환하지는 않습니다.
   자료구조와 알고리즘.vcxproj -> D:\GitRepository\StudyC-Cpp\기초프로그래밍\Debug\자료구조와 알고리즘.exe
