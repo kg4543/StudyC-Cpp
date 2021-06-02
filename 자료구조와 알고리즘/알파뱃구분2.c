@@ -26,26 +26,26 @@ void createNode(Head* h, char c)
 	
 	if (h->head == NULL)
 	{
-		h->head = new;
+		h->head = new; // head가 없을 경우 새노드를 head로 지정
 	}
 	else
 	{
 		Alpha* curr = h->head;
-		while (curr->link != NULL)
+		while (curr->link != NULL) //마지막노드까지 반복
 		{
 			curr = curr->link;
 		}
-		curr->link = new;
+		curr->link = new; // 마지막 노드 다음을 새노드로 연결
 	}
 }
 
 void printAlpha(Head* h)
 {
 	Alpha* curr = h->head;
-	while (curr != NULL)
+	while (curr != NULL) //마지막 노드까지 반복
 	{
-		printf("%5c", curr -> ch);
-		curr = curr -> link;
+		printf("%5c", curr -> ch); //노드 출력
+		curr = curr -> link; // 다음 노드로
 	}
 }
 
@@ -67,11 +67,11 @@ void insertionSort2(char* pary, int size)
 	}
 }
 
-void mai()
+void sub()
 {
-	char input_ary[10];
-	Head* Uhead = createHead();
-	Head* Lhead = createHead();
+	char input_ary[10]; // 입력 배열
+	Head* Uhead = createHead(); // 대문자 연결 리스트
+	Head* Lhead = createHead(); // 소문자 연결 리스트
 
 	int i = 0, j = 0, k = 0;
 	printf("알파뱃을 입력하세요 : ");
@@ -85,22 +85,22 @@ void mai()
 
 	for (i = 0; i < 10; i++)
 	{
-		if (input_ary[i] >= 65 && input_ary[i] <= 90)
+		if (input_ary[i] >= 65 && input_ary[i] <= 90) // 대문자 찾기
 		{
-			createNode(Uhead, input_ary[i]);
+			createNode(Uhead, input_ary[i]); // 대문자 연결리스트 노드 생성
 		}
-		else if (input_ary[i] >= 97 && input_ary[i] <= 122)
+		else if (input_ary[i] >= 97 && input_ary[i] <= 122) // 소문자 찾기
 		{
-			createNode(Lhead, input_ary[i]);
+			createNode(Lhead, input_ary[i]); // 소문자 연결리스트 노드 생성
 		}
 		else
 		{
-			printf("알파벳이 아닙니다.\n");
+			printf("알파벳이 아닙니다.\n"); // 입력값 예외처리
 		}
 	}
 
 	printf("\n대문자 : ");
-	printAlpha(Uhead);
+	printAlpha(Uhead); // 대문자 연결리스트 출력
 	printf("\n소문자 : ");
-	printAlpha(Lhead);
+	printAlpha(Lhead); // 소문자 연결리스트 출력
 }
