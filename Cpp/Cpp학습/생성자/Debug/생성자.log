@@ -1,5 +1,1 @@
-﻿  ClassConvert.cpp
-  Convert.cpp
-D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\생성자\Convert.cpp(31,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  코드를 생성하고 있습니다...
-  생성자.vcxproj -> D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\Debug\생성자.exe
+﻿  생성자.vcxproj -> D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\Debug\생성자.exe
