@@ -1,0 +1,3 @@
+﻿  Inherit.cpp
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\상속\Inherit.cpp(53,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  상속.vcxproj -> D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\Debug\상속.exe
