@@ -21,9 +21,9 @@ public:
 
 void main()
 {
-	Array<int, 5> ari;
+	Array<int, 5> ari; // 배열 클래스 생성
 	ari.SetAt(1, 1234);
 	ari.SetAt(1000, 5678);
 	printf("%d\n", ari.GetAt(1));
-	printf("%d\n", ari.GetAt(5));
+	printf("%d\n", ari.GetAt(5)); 
 }
