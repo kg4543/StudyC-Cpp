@@ -1,0 +1,5 @@
+﻿  Operator.cpp
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\연산자 오버로딩\Operator.cpp(59,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\연산자 오버로딩\Operator.cpp(41): warning C4172: 지역 변수 또는 임시: res의 주소를 반환하고 있습니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\연산자 오버로딩\Operator.cpp(49): warning C4172: 지역 변수 또는 임시: res의 주소를 반환하고 있습니다.
+  연산자 오버로딩.vcxproj -> D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\Debug\연산자 오버로딩.exe
