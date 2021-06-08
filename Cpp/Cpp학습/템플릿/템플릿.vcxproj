@@ -142,8 +142,13 @@
     <ClInclude Include="\\210.119.12.109\Share\C++\cursor.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ClassTemplate.cpp" />
+    <ClCompile Include="FuncTemplate.cpp" />
+    <ClCompile Include="NestTemplate.cpp" />
     <ClCompile Include="NonTypeArr.cpp" />
     <ClCompile Include="PosValueTemp.cpp" />
+    <ClCompile Include="Spacialization.cpp" />
+    <ClCompile Include="specialization2.cpp" />
     <ClCompile Include="SwapAry.cpp" />
     <ClCompile Include="SwapFunc.cpp" />
     <ClCompile Include="SwapObject.cpp" />

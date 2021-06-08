@@ -19,7 +19,7 @@ public:
 	}
 };
 
-void main()
+void sub12()
 {
 	Array<int, 5> ari; // 배열 클래스 생성
 	ari.SetAt(1, 1234);

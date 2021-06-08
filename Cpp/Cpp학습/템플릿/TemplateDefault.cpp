@@ -26,7 +26,7 @@ public:
 	}
 };
 
-void main()
+void sub11()
 {
 	CTest<int, 3> arr;
 	arr[0] = 10;
