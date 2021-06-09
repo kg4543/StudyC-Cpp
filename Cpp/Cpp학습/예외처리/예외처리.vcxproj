@@ -144,13 +144,20 @@
     <ClCompile Include="ExceptionEnum.cpp" />
     <ClCompile Include="ExceptionObject.cpp" />
     <ClCompile Include="ExceptionReturn.cpp" />
+    <ClCompile Include="exdynamic.cpp" />
+    <ClCompile Include="exretry.cpp" />
     <ClCompile Include="InheritExcept.cpp" />
     <ClCompile Include="nesttry.cpp" />
     <ClCompile Include="stackunwinding.cpp" />
+    <ClCompile Include="terminate.cpp" />
     <ClCompile Include="throwfunc.cpp" />
     <ClCompile Include="trycatch.cpp" />
     <ClCompile Include="tryfunc.cpp" />
     <ClCompile Include="tryprocedure.cpp" />
+    <ClCompile Include="unexcept.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="\\210.119.12.109\Share\C++\cursor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

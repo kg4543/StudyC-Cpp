@@ -1,3 +1,8 @@
-﻿  tryfunc.cpp
-D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\예외처리\tryfunc.cpp(20,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  예외처리.vcxproj -> D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\Debug\예외처리.exe
+﻿  exretry.cpp
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\예외처리\exretry.cpp(5,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\예외처리\exretry.cpp(20,10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\예외처리\exretry.cpp(20,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\예외처리\exretry.cpp(20,10): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\예외처리\exretry.cpp(18,13): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+exretry.obj : error LNK2005: _main이(가) exdynamic.obj에 이미 정의되어 있습니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\Debug\예외처리.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
