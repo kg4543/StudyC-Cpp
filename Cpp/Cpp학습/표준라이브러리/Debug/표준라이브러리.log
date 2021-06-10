@@ -1,0 +1,4 @@
+﻿  Vector2.cpp
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\표준라이브러리\Vector2.cpp(12,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\표준라이브러리\Vector2.cpp(24,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  표준라이브러리.vcxproj -> D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\Debug\표준라이브러리.exe
