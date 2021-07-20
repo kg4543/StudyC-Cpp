@@ -1,0 +1,13 @@
+﻿  cardstruct.cpp
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(153,3): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(166,4): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(166,4): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(169,5): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(188,4): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(193,3): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(222,4): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(226,4): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(235,2): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(235,2): warning C4838: 'const int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\GoStop\cardstruct.cpp(279,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  GoStop.vcxproj -> D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\Debug\GoStop.exe

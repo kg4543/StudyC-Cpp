@@ -1,0 +1,6 @@
+﻿  MemberPtr.cpp
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\타입정보\MemberPtr.cpp(22,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  MemFuncArgument.cpp
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\타입정보\MemFuncArgument.cpp(28,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\GitRepository\StudyC-Cpp\Cpp\Cpp학습\타입정보\MemFuncArgument.cpp(40,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
