@@ -156,9 +156,6 @@
     <ClCompile Include="tryprocedure.cpp" />
     <ClCompile Include="unexcept.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="\\210.119.12.109\Share\C++\cursor.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -139,9 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="\\210.119.12.109\Share\C++\cursor.h" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="ClassTemplate.cpp" />
     <ClCompile Include="FuncTemplate.cpp" />
     <ClCompile Include="NestTemplate.cpp" />

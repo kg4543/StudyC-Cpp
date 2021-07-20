@@ -15,11 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="\\210.119.12.109\Share\C++\cursor.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="NonTypeArr.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
